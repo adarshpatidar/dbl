@@ -1,0 +1,36 @@
+{
+    "mongo_url": "mongodb+srv://adarsh:patidar5555@cluster0.w8kdr.mongodb.net/test",
+    "server": {
+        "id": "780311657259204628",
+        "invite": "https://discord.gg/nPVSTwfnRr",
+        "mod_log_id": "780311990387343430",
+        "like_log": "780312021077458944",
+        "admin_user_ids": [],
+        "role_ids": {
+            "bot": "780312244893777990",
+            "unverified": "780312435935543297",
+            "verified": "780312319242665994",
+
+            "bot_developer": "780312278763438141",
+            "bot_verifier": "780312474645561364"
+        }
+    },
+    "bot_options": {
+        "max_owners_count": 4
+    },
+    "discord_client": {
+        "id": "771591148233555978",
+        "secret": "4GV03VoOyhIbHS3K1fRaEd74RU5ytGg7",
+        "token": "NzcxNTkxMTQ4MjMzNTU1OTc4.X5uWQQ.081Ui7UNLifH_niuyQCKy46Hf2s",
+        "prefix": "~"
+    },
+    "web": {
+        "domain_with_protocol": "https://indianbotlist.xyz",
+        "port": 80,
+        "ratelimit": 30,
+        "recaptcha_v2": {
+            "site_key": "6LdplOgZAAAAAJC_ri-2jP0BCgAXgCFEfHaKJB_t",
+            "secret_key": "6LdplOgZAAAAALiFjZk-pBxUkBD9D1I-16xbECRV"
+        }
+    }
+}
